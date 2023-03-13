@@ -264,9 +264,9 @@ article {
   flex-wrap: wrap;
   width: calc(450px + 100px - 40px);
   align-content: center;
+  justify-content: center;
   gap: 30px;
-  padding-left: 60px;
-  padding-bottom: 10px;
+  padding: 30px;
 }
 
 .skill-logo img {
@@ -589,7 +589,7 @@ footer a {
   
   .skill-logo {
     text-align: center;
-    width: 120px;
+    width: 40%;
   }
   
   .skill-container {
